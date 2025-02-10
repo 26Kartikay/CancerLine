@@ -40,7 +40,7 @@ CancerLine is a machine learning project that predicts cancer using logistic reg
 2. Run `cancer_prediction_logistic_regression.ipynb` step by step to train and evaluate the model.
 
 ## Dataset
-Ensure you have the dataset required for training and prediction. If the dataset is not included in the repository, update the notebook with the correct dataset path.
+cancer.csv is provided
 
 ## Contributing
 Feel free to fork the repository, make enhancements, and submit pull requests.
